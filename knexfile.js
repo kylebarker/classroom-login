@@ -5,7 +5,7 @@ module.exports = {
   development: {
     client: 'pg',
     connection: {
-      database: 'myMigrations',
+      database: 'classrooms',
       host: '127.0.0.1'
     },
     seeds: {
